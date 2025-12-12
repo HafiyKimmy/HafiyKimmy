@@ -39,3 +39,8 @@
 - [SECR1013 Digital Logic]
 
 ---
+
+## 📊 GitHub Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafiykimmy&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
+
+---
