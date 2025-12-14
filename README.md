@@ -34,7 +34,7 @@
 
 ## Courses
 - [SECI1013 Discrete Structure]
-- [SECJ1013 Programming Technique 1]
+- [SECJ1013 Programming Technique 1](https://github.com/HafiyKimmy/PT1)
 - [SECP1513 Technology & Information System]
 - [SECR1013 Digital Logic]
 
