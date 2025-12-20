@@ -53,5 +53,5 @@
 ---
 
 ## ✨ Fun Facts
-- 🤖 I enjoy: Reading, Gaming
+- 🤖 I enjoy: Reading books
 - 📚 Favourite topics: AI, robotics, cybersecurity, Aerospace
