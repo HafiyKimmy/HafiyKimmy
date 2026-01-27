@@ -36,6 +36,7 @@
 - [SECJ1013 Programming Technique 1](https://github.com/HafiyKimmy/PT1)
 - [SECP1513 Technology & Information System](https://github.com/HafiyKimmy/TIS)
 - [SECR1013 Digital Logic](https://github.com/HafiyKimmy/DL)
+- [ULRS1032-Integrity and Anti-Corruption](https://github.com/HafiyKimmy/KIAR)
 
 ---
 
